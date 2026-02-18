@@ -1,0 +1,8 @@
+{
+  "name": "Tet 2026 - Cyberpunk Horse Greeting",
+  "description": "A futuristic Tet 2026 Greeting Card creator powered by Gemini AI. Features include AI wish generation, custom background generation, text-to-speech wishes, AI Oracle, and Spring Travel suggestions.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
